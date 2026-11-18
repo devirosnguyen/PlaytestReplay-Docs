@@ -69,4 +69,4 @@ When reporting a problem, please include your Unity version, render pipeline and
 
 ---
 
-This repository contains documentation only. Playtest Replay & Heatmaps is sold on the Unity Asset Store by JieYingStudio.
+This repository contains documentation only.
